@@ -1,0 +1,287 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/vegy.jpg",
+      "altimg": "vegy",
+      "title": "Меню 'Фитнес'",
+      "descr": "Меню 'Фитнес' - это новый подход к приготовлению блюд: больше свежих овощей и фруктов. Продукт активных и здоровых людей. Это абсолютно новый продукт с оптимальной ценой и высоким качеством!",
+      "price": 9
+    },
+    {
+      "img": "img/tabs/post.jpg",
+      "altimg": "post",
+      "title": "Меню 'Постное'",
+      "descr": "Меню 'Постное' - это тщательный подбор ингредиентов: полное отсутствие продуктов животного происхождения, молоко из миндаля, овса, кокоса или гречки, правильное количество белков за счет тофу и импортных вегетарианских стейков.",
+      "price": 14
+    },
+    {
+      "img": "img/tabs/elite.jpg",
+      "altimg": "elite",
+      "title": "Меню 'Премиум'",
+      "descr": "В меню 'Премиум' мы используем не только красивый дизайн упаковки, но и качественное исполнение блюд. Красная рыба, морепродукты, фрукты - ресторанное меню без похода в ресторан!",
+      "price": 21
+    }
+  ],
+  "requests": [
+    {
+      "name": "\tSafarianAA",
+      "phone": "+79068878051",
+      "id": 1
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+7 (906) 887-80-51",
+      "id": 2
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 3
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 4
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 5
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 6
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 7
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 8
+    },
+    {
+      "name": "df",
+      "phone": "fdf",
+      "id": 9
+    },
+    {
+      "name": "\tSafarianAA",
+      "phone": "+79068878051",
+      "id": 10
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 11
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 12
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 13
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 14
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 15
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 16
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 17
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 18
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 19
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 20
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 21
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 22
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 23
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 24
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 25
+    },
+    {
+      "name": "\tSafarianAA",
+      "phone": "+79068878051",
+      "id": 26
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 27
+    },
+    {
+      "name": "\tSafarianAA",
+      "phone": "+79068878051",
+      "id": 28
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 29
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 30
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 31
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 32
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 33
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 34
+    },
+    {
+      "name": "\tSafarianAA",
+      "phone": "+79068878051",
+      "id": 35
+    },
+    {
+      "name": "65",
+      "phone": "56",
+      "id": 36
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 37
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 38
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 39
+    },
+    {
+      "name": "\tSafarianAA",
+      "phone": "+79068878051",
+      "id": 40
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 41
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 42
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 43
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 44
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 45
+    },
+    {
+      "name": "\tSafarianAA",
+      "phone": "fg",
+      "id": 46
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 47
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 48
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 49
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 50
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 51
+    },
+    {
+      "name": "SafarianAA",
+      "phone": "+79068878051",
+      "id": 52
+    }
+  ]
+}
